@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<body>
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+<script src="myscript.js"></script>
+</head>
+<!-- <body background= "conffeti.gif"> -->
+<div align="center">
+<p><h1>Dariela Hernandez</h1></p>
+<p><h2>Bio</h2></p>
+<p>Hello! My name is Dariela Hernandez (or Dari for short).
+I am a fifteen year old</p>
+<p> from Eagle Pass, Texas and am currently attending the Girls Who Code program</p>
+<p>at Dell Austin. This year I am going to  be a junior at Eagle Pass High School. I can&#39;t wait!</p>
+
+
+
+<p><h2>Facts About Me</p></h2>
+<p>-i love art</p>
+<p>-i love watching Netflix</p>
+<p>-my favorite subject is math</p>
+<p>-i love the cartoon Voltron Legendary Defender</p>
+
+<p><h2>My Favorite Hobbies</h2></p>
+
+<p>-hanging out with friends</p>
+<p>-painting & drawing</p>
+<p>-baking</p>
+<p>-collecting rocks</p>
+
+<p><h2>Favorite Apps</h2></p>
+
+<p><a href="https://www.instagram.com/">Instagram</a></p>
+<p><a href="https://www.youtube.com/">Youtube</a></p>
+
+<button type="button" onclick="switchImages()">Click Me for More Fun Pictures of My Favorite Instargam Accounts!</button>
+
+<p><h2>Favorite Accounts I Follow</p></h2>
+
+<p><img id= "Rowan Blanchard" alt="image of Rowan Blanchard" src="http://www4.pictures.zimbio.com/gi/Rowan+Blanchard+Teen+Vogue+Summit+LA+Keynote+CzrZjQC9Z0jl.jpg" width="500"></p>
+<p><a href="https://www.instagram.com/rowanblanchard/?hl=en">Go to Rowan Blanchard on Instagram</a></p>
+
+<p><img id= "Ansel Elgort" alt="image of Ansel Elgort" src="https://pbs.twimg.com/profile_images/890614709564690432/dWhaeSzL.jpg" width="500"></p>
+<p><a href="https://www.instagram.com/ansel/?hl=en">Go to Ansel Elgort on Instagram</a></p>
+
+<p><img id= "Glossier" alt="image of Glossier add" src="https://muabs.com/wp-content/uploads/2016/05/Screen-Shot-2016-05-08-at-11.04.37-AM.png" width="500"></p>
+<p><a href="https://www.instagram.com/glossier/?hl=en">Go to Glossier on Instagram</a></p>
+
+
+
+
+
+
+
+<p><h2>Favorite Youtube Channels</h2></p>
+
+<p><img alt="image of Safiya Nygaard" src="https://i.pinimg.com/736x/95/dd/1b/95dd1bbd4408475680d99d50d9133215--hollywood-magazine-vanity-fair-magazine.jpg" width="500"></p>
+<p><a href="https://www.youtube.com/channel/UCbAwSkqJ1W_Eg7wr3cp5BUA
+">Go to Safiya Nygaard on Youtube</a></p>
+
+<p><img alt="image of LadyLike crew" src="https://img.buzzfeed.com/buzzfeed-static/static/2017-12/4/14/asset/buzzfeed-prod-fastlane-01/sub-buzz-9060-1512416836-5.jpg?downsize=715" width="500"></p>
+<p><a href="https://www.youtube.com/channel/UCcOeS5aEIadAhKtJ9_VKAIw">Go to LadyLike on Youtube</a></p>
+
+<p><img alt="image of Cooking Tree peach cake dessert" src="https://i.ytimg.com/vi/KchDHpctkgs/maxresdefault.jpg" width="500"></p>
+<p><a href="https://www.youtube.com/channel/UCtby6rJtBGgUm-2oD_E7bzw">Go to Cooking Tree on Youtube</a></p>
+
+
+
+</body>
+</html>
